@@ -1,1 +1,1 @@
-this is an example for git for B
+this is an example for git for B..
